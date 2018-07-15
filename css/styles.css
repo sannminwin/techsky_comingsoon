@@ -107,9 +107,9 @@ html {
 
 .position-static{ position: static; }
 
-.font-white{ color: #fff; }
+.font-white{ color: #ccc; }
 
-.main-area{ position: relative; height: 100vh; background: #0C0D0F; color: #fff; }
+.main-area{ position: relative; height: 100vh; background: #0C0D0F; color: #ccc; }
 
 
 /* ---------------------------------
@@ -138,7 +138,7 @@ html {
 
 .right-section .logo{    
 	position: absolute;
-    top: 120px;
+    top: 160px;
     height: 75px;
 	left: 40px; 
 }
