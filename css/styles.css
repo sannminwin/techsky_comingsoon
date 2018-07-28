@@ -134,7 +134,7 @@ html {
 4. RIGHT SECTION
 --------------------------------- */
 
-.right-section{ float: right; width: 50%; position: relative; padding: 0 60px; }
+.right-section{ float: right; width: 100%; position: relative; padding: 0 60px; }
 
 .right-section .logo{    
 	position: absolute;
